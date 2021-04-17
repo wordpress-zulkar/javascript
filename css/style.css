@@ -1,0 +1,6 @@
+.owl-carousel{
+    height: 500px;
+}
+.owl-carousel button.owl-dot:focus{
+    border: none;
+}
